@@ -4,7 +4,7 @@ unset LANG
 
 domain_list=${domain_list:-$PWD/domain.list}
 log=${log:-false}
-verbose=${log:-false}
+verbose=${verbose:-false}
 timeout=${timeout:-10}
 timezone=${timezone:-Asia/Shanghai}
 
